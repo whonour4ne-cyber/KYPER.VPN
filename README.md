@@ -1,1 +1,1 @@
-# KYPER.VPN
+# KYPER VPN
